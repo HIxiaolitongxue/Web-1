@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://www.neuedu.com/uploads/20200807/6a8890ac48d1971555f92cab89de93f8.jpg);
+    background-size: 130%;
+background-repeat:no-repeat; 
+margin-top: 100px;
+}
+.box{
+    width: 400px;
+    height: 500px;
+    background-color: gold;
+    font-family: "华文隶书";
+}
+.buttom{
+    width:400px;
+    height: 200px;
+    background-image: url(https://p1.ssl.qhimg.com/t01c111685a2bc8ea96.jpg);
+    background-size: 100%;
+background-repeat:no-repeat; 
+}
